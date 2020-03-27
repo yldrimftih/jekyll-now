@@ -5,7 +5,7 @@ permalink: /about/
 ---
 layout: page
 title: CV
-permalink: /about/
+permalink: /CV/
 ---
 Some information about you!
 
