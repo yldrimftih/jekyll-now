@@ -3,7 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+layout: page
+title: CV
+permalink: /about/
+---
 Some information about you!
 
 ### More Information
