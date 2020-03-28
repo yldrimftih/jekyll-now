@@ -19,7 +19,7 @@ English
 
 ## Experience 
 
-|July 2018| Intern | SEYISCO| (https://seyis.co)
+|July 2018| Intern | SEYISCO| (https://seyis.co) |
 
 ### Software
 - C
@@ -44,7 +44,7 @@ English
 
 ## Project
 
-|Graduation Project| | A 8-Bit Computer is made by using Logisim|
-| :------: | :-------: |
+|Graduation Project| A 8-Bit Computer is made by using Logisim
+
 
 
