@@ -12,4 +12,39 @@ permalink: /cv/
 | | | Electrical and Electronics Engineering|
 |2010 - 2014|  | [Mut Anatolian High School](http://mutanadolu.meb.k12.tr/)|
 
- 
+## Language
+
+English
+
+
+## Experience 
+
+|July 2018| Intern | SEYISCO| (https://seyis.co)
+
+### Software
+- C
+- C#
+- MATLAB
+- Java
+
+### Hardware
+- Arduino
+- Raspberry Pi
+- TM4C123GXL
+- PIC 16F877
+- RTL-SDR
+- Crimson SDR
+
+### Program
+- Proteus
+- Visual Studio
+- Eagle
+- Logisim
+- GNU Radio
+
+## Project
+
+|Graduation Project| | A 8-Bit Computer is made by using Logisim|
+| :------: | :-------: |
+
+
