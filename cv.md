@@ -44,7 +44,7 @@ English
 
 ## Project
 
-|Graduation Project: | A 8-Bit Computer Design by using Logisim
+|Graduation Project: | A 8-Bit Computer Design by using Logisim |
 
 
 
