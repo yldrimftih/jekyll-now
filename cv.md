@@ -19,7 +19,7 @@ English
 
 ## Experience 
 
-|July 2018| Intern | [SEYISCO ](https://seyis.co)
+|July 2018 - Sep.2018| Intern | [SEYISCO ](https://seyis.co)
 
 ### Software
 - C
